@@ -17,7 +17,7 @@
 Hi, I'm [Ashish Rana](https://facebook.com/ashishrana.cse), a Software Engineer 🚀 from India, currently, I'm a working at [@Adobe](https://github.com/adobe) 💼
 Beside's programming, I enjoy eating food and traveling.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/ashishranacse/ashishranacse/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuff:**
 
