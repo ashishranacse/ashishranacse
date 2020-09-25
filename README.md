@@ -12,14 +12,14 @@
   <img align="left" alt="Ashish's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
-<br />
+---
 
 Hi, I'm [Ashish Rana](https://facebook.com/ashishrana.cse), a Software Engineer 🚀 from India, currently, I'm a working at [@Adobe](https://github.com/adobe) 💼
 Beside's programming, I enjoy eating food and traveling.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning Python and AWS; 
